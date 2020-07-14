@@ -1,1 +1,1 @@
-Visit [a link] (https://VoidProduct.surge.sh)
+Visit (https://VoidProduct.surge.sh)
